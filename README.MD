@@ -1,4 +1,4 @@
-https://vryzhkova.github.io/mersedes-js/
+https://vryzhkova.github.io/venom-2/
 
 venom 2 - учебный проект
 
